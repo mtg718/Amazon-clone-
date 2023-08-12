@@ -4,3 +4,5 @@ Made an Amazon clone using HTML &amp; CSS only
 
 
 ![Amazon com - Google Chrome 12-08-2023 23_01_45](https://github.com/mtg718/Amazon-clone-/assets/135738292/739f7684-e47e-44e1-99f3-600eb1d6728e)
+
+![Uploading Amazon.com - Google Chrome 12-08-2023 23_01_56.png…]()
